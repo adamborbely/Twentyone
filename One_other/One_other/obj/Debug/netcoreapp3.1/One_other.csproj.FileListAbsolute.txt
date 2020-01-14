@@ -1,0 +1,11 @@
+C:\Users\borbe\source\repos\One_other\One_other\bin\Debug\netcoreapp3.1\One_other.exe
+C:\Users\borbe\source\repos\One_other\One_other\bin\Debug\netcoreapp3.1\One_other.deps.json
+C:\Users\borbe\source\repos\One_other\One_other\bin\Debug\netcoreapp3.1\One_other.runtimeconfig.json
+C:\Users\borbe\source\repos\One_other\One_other\bin\Debug\netcoreapp3.1\One_other.runtimeconfig.dev.json
+C:\Users\borbe\source\repos\One_other\One_other\bin\Debug\netcoreapp3.1\One_other.dll
+C:\Users\borbe\source\repos\One_other\One_other\bin\Debug\netcoreapp3.1\One_other.pdb
+C:\Users\borbe\source\repos\One_other\One_other\obj\Debug\netcoreapp3.1\One_other.csprojAssemblyReference.cache
+C:\Users\borbe\source\repos\One_other\One_other\obj\Debug\netcoreapp3.1\One_other.AssemblyInfoInputs.cache
+C:\Users\borbe\source\repos\One_other\One_other\obj\Debug\netcoreapp3.1\One_other.AssemblyInfo.cs
+C:\Users\borbe\source\repos\One_other\One_other\obj\Debug\netcoreapp3.1\One_other.dll
+C:\Users\borbe\source\repos\One_other\One_other\obj\Debug\netcoreapp3.1\One_other.pdb
