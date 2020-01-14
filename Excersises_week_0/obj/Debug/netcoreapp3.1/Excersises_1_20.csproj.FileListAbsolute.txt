@@ -1,0 +1,11 @@
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\bin\Debug\netcoreapp3.1\Excersises_1_20.exe
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\bin\Debug\netcoreapp3.1\Excersises_1_20.deps.json
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\bin\Debug\netcoreapp3.1\Excersises_1_20.runtimeconfig.json
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\bin\Debug\netcoreapp3.1\Excersises_1_20.runtimeconfig.dev.json
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\bin\Debug\netcoreapp3.1\Excersises_1_20.dll
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\bin\Debug\netcoreapp3.1\Excersises_1_20.pdb
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\obj\Debug\netcoreapp3.1\Excersises_1_20.csprojAssemblyReference.cache
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\obj\Debug\netcoreapp3.1\Excersises_1_20.AssemblyInfoInputs.cache
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\obj\Debug\netcoreapp3.1\Excersises_1_20.AssemblyInfo.cs
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\obj\Debug\netcoreapp3.1\Excersises_1_20.dll
+C:\Users\borbe\source\repos\Excersises_week_0\Excersises_week_0\obj\Debug\netcoreapp3.1\Excersises_1_20.pdb
